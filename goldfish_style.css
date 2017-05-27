@@ -1,0 +1,46 @@
+ h1 {
+        background-color: rgb(105,210,231);
+        color: #FFFFFF;
+        font-family: Arial;
+        font-size: 50px;
+        text-align:center;
+        margin: 40px;
+        padding:10px;
+        border:solid 5px rgb(167,219,216);
+        background: url(https://nqki340a6g43eofbpz6nu7kk-wpengine.netdna-ssl.com/wp-content/uploads/2016/05/BBB124-Top-5-Homemade-Ice-Cream-Flavors-Thumbnail-FINAL-2-1024x576.jpg)
+        }
+        li {
+            background-color: rgb(250,105,0);
+            margin: 5px;
+            padding:10px;
+            border:dotted 1px rgb(243,134,48);
+        }
+        li:hover{
+            background-color:rgb(167,219,216);
+            text-align:center;
+        }
+        a{
+            color:rgb(181,241,235);
+            text-decoration:none;
+            font-weight:700;
+        }
+        a:hover{
+            color:rgb(167,219,216);
+        }
+        table{
+            border:solid 1px rgb(250,105,0);
+            width:100%;
+        }
+        td{
+            border:dashed 1px rgb(243,134,48);
+        }
+        .inner span{
+            background-color:rgb(250,105,0);
+            font-size:40px;
+        }
+        sprout_image{
+            width:100%;
+        }
+        input{
+            width:100%;
+        }
